@@ -9,7 +9,7 @@ __请注意：本项目仅用于学习和测试，请勿用于违法行为，造
 
 ![img](https://i.loli.net/2019/07/02/5d1a61f2f41f880202.png)
 
-<p align="center">攻击开始前目标主机工作正常，可用内存接近 4GB</p>
+<p align="center">攻击开始前目标主机工作正常，可用内存 3GB</p>
 
 ![img](https://i.loli.net/2019/07/02/5d1a62da8fa7831631.png)
 
